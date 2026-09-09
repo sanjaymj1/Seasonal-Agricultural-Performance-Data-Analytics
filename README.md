@@ -5,6 +5,7 @@ Seasonal Agricultural Performance Data Analytics is a data analytics project tha
 The project uses Python-based data analysis and visualization techniques to identify meaningful patterns in crop yield, production, revenue, cost, profit, rainfall, temperature, soil conditions, water usage, and other agricultural factors.
 
 The main objective of this project is to transform raw agricultural data into meaningful insights that can help understand crop performance and support better agricultural decision-making.
+
 🎯 Objectives
 Analyze agricultural performance across different seasons.
 Compare crop-wise yield and profitability.
