@@ -167,12 +167,14 @@ The project can be further enhanced by:
 
 ## 📁 Project Structure
 
-
+```text
 Seasonal-Agricultural-Performance-Data-Analytics/
 │
 ├── 📓 Seasonal_Agricultural_Performance_Data_Analytics.ipynb
 ├── 📊 seasonal_agriculture_performance_dataset.csv
 └── 📄 README.md
+```
+
 ---
 
 ## ▶️ How to Run the Project
