@@ -165,45 +165,7 @@ The project can be further enhanced by:
 - 📈 Adding advanced agricultural forecasting models.
 - 🌐 Developing a web-based agricultural analytics application.
 
----
-
-## 📁 Project Structure▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/pavan09876519/Seasonal-Agricultural-Performance-Data-Analytics.git
-2️⃣ Open the Notebook
-
-Open the .ipynb notebook using:
-
-Google Colab
-Jupyter Notebook
-3️⃣ Access the Dataset
-
-Upload or access the dataset:
-
-seasonal_agriculture_performance_dataset.csv
-4️⃣ Run the Project
-
-Run the notebook cells sequentially and explore the generated visualizations and analysis results.
-
-🔗 Project Repository
-
-GitHub Repository:
-
-Seasonal Agricultural Performance Data Analytics
-
-👨‍💻 Author
-
-Sanjay mj
-
-🎓 B.Tech – Computer Science and Engineering
-
-⭐ Conclusion
-
-This project demonstrates how data analytics and visualization techniques can be applied to agricultural data to identify trends, compare crop performance, analyze seasonal variations, and understand factors affecting agricultural productivity and profitability.
-
-The project provides a strong foundation for developing more advanced agricultural analytics, forecasting, and prediction systems in the future.
-
-⭐ If you found this project useful, consider giving the repository a star!
+## 📁 Project Structure
 
 ```text
 Seasonal-Agricultural-Performance-Data-Analytics/
@@ -211,3 +173,8 @@ Seasonal-Agricultural-Performance-Data-Analytics/
 ├── 📓 Seasonal_Agricultural_Performance_Data_Analytics.ipynb
 ├── 📊 seasonal_agriculture_performance_dataset.csv
 └── 📄 README.md
+
+▶️ How to Run the Project
+1️⃣ Clone the Repository
+---
+
