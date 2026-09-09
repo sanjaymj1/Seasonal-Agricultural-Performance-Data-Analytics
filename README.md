@@ -175,7 +175,7 @@ Seasonal-Agricultural-Performance-Data-Analytics/
 └── 📄 README.md
 ---
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 1️⃣ Clone the Repository
 git clone https://github.com/sanjaymj1/Seasonal-Agricultural-Performance-Data-Analytics.git
 2️⃣ Open the Notebook
