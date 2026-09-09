@@ -173,8 +173,23 @@ Seasonal-Agricultural-Performance-Data-Analytics/
 ├── 📓 Seasonal_Agricultural_Performance_Data_Analytics.ipynb
 ├── 📊 seasonal_agriculture_performance_dataset.csv
 └── 📄 README.md
+---
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
----
+git clone https://github.com/sanjaymj1/Seasonal-Agricultural-Performance-Data-Analytics.git
+2️⃣ Open the Notebook
+
+Open the .ipynb notebook using:
+
+Google Colab
+Jupyter Notebook
+3️⃣ Access the Dataset
+
+Upload or access the dataset:
+
+seasonal_agriculture_performance_dataset.csv
+4️⃣ Run the Project
+
+Run the notebook cells sequentially and explore the generated visualizations and analysis results.
 
